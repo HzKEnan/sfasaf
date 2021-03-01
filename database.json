@@ -1,0 +1,193 @@
+{
+  "users": {
+    "994504446044@s.whatsapp.net": {
+      "exp": 198,
+      "limit": 11,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "КенанТМФ",
+      "age": -1,
+      "regTime": -1
+    },
+    "380671382546@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "TMF - BotMod",
+      "age": -1,
+      "regTime": -1
+    },
+    "31684379066@s.whatsapp.net": {
+      "exp": 109,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Macro | TR",
+      "age": -1,
+      "regTime": -1
+    },
+    "905379282264@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "EmirM | TR",
+      "age": -1,
+      "regTime": -1
+    }
+  },
+  "groups": {},
+  "chats": {
+    "380671382546-1614448030@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "380671382546-1614559750@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "994504446044@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 52,
+      "success": 52,
+      "last": 1614569709184,
+      "lastSuccess": 1614569709184
+    },
+    "setmenu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1614556750424,
+      "lastSuccess": 1614556750424
+    },
+    "okick.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1614557950639,
+      "lastSuccess": 1614557950639
+    },
+    "oadd.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614557340910,
+      "lastSuccess": 1614557340910
+    },
+    "runningtext.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1614558351400,
+      "lastSuccess": 0
+    },
+    "readmore.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1614558659149,
+      "lastSuccess": 1614558659149
+    },
+    "update.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1614558824436,
+      "lastSuccess": 0
+    },
+    "online.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1614561403408,
+      "lastSuccess": 1614561403408
+    },
+    "opromote.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1614561951501,
+      "lastSuccess": 1614561951501
+    },
+    "math.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1614569440107,
+      "lastSuccess": 1614569440107
+    },
+    "math_answer.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1614569446206,
+      "lastSuccess": 1614569446206
+    },
+    "leaderboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614566930710,
+      "lastSuccess": 1614566930710
+    },
+    "ytv.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614567035378,
+      "lastSuccess": 1614567035378
+    },
+    "yta.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1614567232781,
+      "lastSuccess": 1614567232781
+    },
+    "play.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1614568011794,
+      "lastSuccess": 1614568011794
+    },
+    "buylimit.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614567347572,
+      "lastSuccess": 1614567347572
+    },
+    "creator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614568447613,
+      "lastSuccess": 1614568447613
+    },
+    "profile.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614568493409,
+      "lastSuccess": 1614568493409
+    },
+    "attp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614569067325,
+      "lastSuccess": 1614569067325
+    },
+    "tts.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1614569091269,
+      "lastSuccess": 1614569091269
+    }
+  }
+}
